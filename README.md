@@ -1,2 +1,2 @@
 # Cookiecutter_template
-Basic cookiecutter template for machine learning project.
+Basic cookiecutter self made template for machine learning project.
